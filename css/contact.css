@@ -1,0 +1,40 @@
+
+  
+  a {
+    color: rgb(0, 0, 0);
+    -webkit-transition: .3s all ease;
+    -o-transition: .3s all ease;
+    transition: .3s all ease; 
+    text-decoration: none; 
+  }
+  a:hover {
+    font-weight: bold;
+  }
+  
+  .text-black {
+    color: #000; 
+  }
+  
+  .heading {
+    color: #888;
+    letter-spacing: .05rem;
+    text-transform: uppercase;
+    font-weight: 400; 
+  }
+  
+  .box {
+    padding: 20px 20px 10px 20px;
+    background: #fff;
+    -webkit-box-shadow: 0 15px 30px 0 rgba(0, 0, 0, 0.2);
+    box-shadow: 0 15px 30px 0 rgba(0, 0, 0, 0.2); 
+  }
+  
+  #navbarSupportedContent ul li.active a {
+  color: blue !important;
+}
+#contact {
+  color:blue !important;
+}
+.navbar-collapse ul li a{
+  color: #0000007d !important;
+}
